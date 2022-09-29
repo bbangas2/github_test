@@ -21,6 +21,16 @@
 ![alt text](https://src.hidoc.co.kr/image/lib/2021/4/28/1619598179113_0.jpg)
 
 
+첫번째줄
+***
+두번째줄
+- - -
+
+
+*강조1*
+**강조2**
+~~중간선~~
+
 ```
 def print():
   dfasldgjasdlkfj
